@@ -1,6 +1,9 @@
 #pi_sensor_mqtt
 
-Reads sensor data from serial wireless sensors and publishes to an MQTT broker.
+*Not currently developed: NodeRed being used instead.*
+
+Lightweight gateway python code to read sensor data from serial wireless sensors and publish to an MQTT broker.
+
 
 ## Requirements
 
